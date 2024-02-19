@@ -1,3 +1,5 @@
-let qoute: string= "A person who never made a mistake never tried anything new.";
-let author: string= " Albert Einstein"
-console.log(`${author} once said,"${qoute}`);
+let quote: string="A person who never made a mistake never tried anything new";
+let famous_person="Allbert Einstein";
+
+let message=`${famous_person} once said,${quote}`;
+console.log(message);
